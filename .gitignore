@@ -1,0 +1,14 @@
+__pycache__
+
+data*
+meetup_data*
+*~
+*.pyc
+*.npy
+*.h5
+*.ipynb
+*.mpeg
+*.swp
+*.tar.gz
+*.tar.*
+*.mp4
