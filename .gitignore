@@ -1,8 +1,8 @@
 __pycache__
 
 MCLRE/
-data*
-meetup_data*
+data/lausanne
+data/london
 
 *~
 *.pyc
