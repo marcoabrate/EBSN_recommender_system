@@ -1,0 +1,16 @@
+user_id,event_id,rsvp
+marco,4,259200
+marco,5,432000
+gauthier,12,86400
+gauthier,13,604800
+gauthier,14,1036800
+gauthier,15,1123200
+gauthier,16,86400
+jasmine,16,432000
+jasmine,18,259200
+jasmine,19,1036800
+jane,10,604800
+amin,4,1036800
+amin,5,604800
+amin,9,86400
+amin,13,259200
